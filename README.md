@@ -1,5 +1,5 @@
 # Python Basics
-This repository contains 12 Jupyter notebooks which cover the basics of code of the Python programming language.
+This repository contains 12 Jupyter notebooks that cover the basics of Python programming.
 
 Get python: https://www.python.org/downloads/
 
